@@ -1,16 +1,24 @@
-# batterylevel
+# androidのユーザー補助が有効か確認及びに無効であれば設定ページに飛ばす
 
-A new Flutter project.
+1.アプリでユーザー補助サービスを作る  
+http://android-note.open-memo.net/sub/event__get_system_event.html
 
-## Getting Started
+2.ユーザー補助サービスが有効か無効かを確認する  
+http://android-note.open-memo.net/sub/system__check_enable_setting.html
 
-This project is a starting point for a Flutter application.
+3.ユーザー補助サービスが無効なら設定ページに飛ばす  
+http://android-note.open-memo.net/sub/activity__open_setting_activities.html
 
-A few resources to get you started if this is your first Flutter project:
+4.Flutterからandroidネイティブコードを呼び出す  
+https://flutter.dev/docs/development/platform-integration/platform-channels?tab=android-channel-kotlin-tab
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Video
+demo |
+:--: |
+<video src="https://user-images.githubusercontent.com/73928886/134849096-9d2fb942-3072-4d28-a3fa-7e09797c013a.mp4" width="300" /> |
+
+
+
+
+
